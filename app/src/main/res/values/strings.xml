@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">AllergyApp</string>
+
+    <string name="start">START</string>
+
+    <string name="witaj">Witaj!</string>
+    <string name="menu">M E N U</string>
+
+    <string name="alergeny">Lista alergenów</string>
+    <string name="pyłki">Pylenie</string>
+    <string name="leki">Lista leków</string>
+    <string name="adrenalina">Adrenalina</string>
+    <string name="objawy">Objawy</string>
+    <string name="objawy2">Dawkowanie</string>
+    <string name="powietrze">Jakość powietrza</string>
+    <string name="krzyżowe">Alergie krzyżowe</string>
+    <string name="skład">Analiza składu</string>
+
+    <string name="checkWater">Twoja lista alergenów</string>
+
+    <string name="add2">Dodaj</string>
+    <string name="add">Dodaj</string>
+    <string name="back">Wróć</string>
+    <string name="ml">Alergen</string>
+    <string name="ml2">Nazwa leku</string>
+    <string name="type">Podaj objawy:</string>
+    <string name="type2">Objawy</string>
+    <string name="type3">Alergen</string>
+    <string name="timeDrink">Podaj godzinę spożycia:</string>
+    <string name="newDay">Wyczyść</string>
+
+    <string-array name="opcje_wzrost">
+        <item>cm</item>
+        <item>m</item>
+    </string-array>
+
+    <string name="quality">Wskaźnik jakości powietrza</string>
+    <string name="stężenia">Stężenia:</string>
+    <string name="c1">CO:</string>
+    <string name="c2">NO:</string>
+    <string name="c3">NO2:</string>
+    <string name="c4">O3:</string>
+    <string name="c5">SO2:</string>
+    <string name="c6">Pył PM2.5:</string>
+    <string name="c7">Pył PM10:</string>
+    <string name="c8">NH3:</string>
+    <string name="loc">Lokacja: </string>
+
+    <string name="dominant">Dominujący alergen:</string>
+    <string name="pylenie">Wskaźniki pylenia:</string>
+    <string name="levels">0 - nie pyli, 4 - pyli bardzo mocno</string>
+    <string name="tree">Drzewa:</string>
+    <string name="grass">Trawy:</string>
+    <string name="weed">Chwasty:</string>
+    <string name="mold">Pleśń:</string>
+
+    <string name="ustawCzas">Wybierz czas</string>
+    <string name="ustawData">Wybierz datę</string>
+    <string name="ustawAlarm">Ustaw alarm</string>
+    <string name="ustawiono">Przypomnienie ustawiono na:</string>
+    <string name="ustaw">Ustaw przypomnienie o wymianie adrenaliny</string>
+
+    <string name="wynik">Wynik</string>
+    <string name="id">Id</string>
+    <string name="show">Wyświetl</string>
+    <string name="usun">Usuń</string>
+    <string name="update">Update</string>
+
+    <string name="dalej">Analizuj</string>
+    <string name="sk">Skład</string>
+    <string name="sk2">Twoje alergeny</string>
+</resources>

@@ -212,7 +212,7 @@ class AirActivity : AppCompatActivity() {
 
     companion object {
         var BaseUrl = "http://api.openweathermap.org/"
-        var AppId = "04538af0293472ba39dc60f47b9f13e1"
+        var AppId = ""
         var lat = "0"
         var lon = "0"
     }
